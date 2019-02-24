@@ -1,0 +1,20 @@
+{
+  "name": "nodehero",
+  "version": "1.0.0",
+  "description": "Estudos node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vnessaethi/nodehero.git"
+  },
+  "author": "Vanessa Santos Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vnessaethi/nodehero/issues"
+  },
+  "homepage": "https://github.com/vnessaethi/nodehero#readme"
+}
