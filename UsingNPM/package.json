@@ -1,0 +1,17 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "description": "teste add dependências package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Vanessa Santos Fernandes",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  },
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  }
+}
