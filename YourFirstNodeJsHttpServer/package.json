@@ -1,0 +1,15 @@
+{
+  "name": "firstnodehttpserver",
+  "version": "1.0.0",
+  "description": "#### Módulo http para nodejs server [httpserver](httpserver.js) Basicamente para instanciar um módulo http, exemplo: ```shell const http = require('http') ```",
+  "main": "express.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
